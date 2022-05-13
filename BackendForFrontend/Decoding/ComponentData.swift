@@ -2,8 +2,7 @@
 //  ComponentData.swift
 //  BackendForFrontend
 //
-//  Created by Paola Warren on 5/10/22.
-//
+//  Created by Zachary Buffington on 5/10/22.
 
 import Foundation
 
